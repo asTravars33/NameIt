@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">JWLab02b</string>
+    <string name="title">Name It ! : Animal Edition</string>
+    <string name="init_message">Select your settings and press Submit to begin!</string>
+    <string name="score">Score: 0/0</string>
+    <string name="suggest">Suggest</string>
+    <string name="submit">Submit</string>
+    <string name="category_one">grassland</string>
+    <string name="category_two">arctic</string>
+    <string name="category_three">aquatic</string>
+    <string name="theme_one">cool   </string>
+    <string name="theme_two">warm</string>
+    <string name="score_display">Score: %d/%d</string>
+    <string name="settings">Settings</string>
+    <string name="categories">Categories:</string>
+    <string name="themes">Themes:</string>
+    <string-array name="grassland_arr">
+        <item>jaguar</item>
+        <item>armadillo</item>
+        <item>vole</item>
+        <item>coyote</item>
+        <item>weasel</item>
+    </string-array>
+    <string-array name="tundra_arr">
+        <item>polar bear</item>
+        <item>musk ox</item>
+        <item>chinchilla</item>
+        <item>snowy owl</item>
+        <item>walrus</item>
+    </string-array>
+    <string-array name="aquatic_arr">
+        <item>clownfish</item>
+        <item>barnacle</item>
+        <item>squid</item>
+        <item>dolphin</item>
+        <item>manta ray</item>
+    </string-array>
+</resources>
